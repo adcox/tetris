@@ -7,7 +7,7 @@ A classic Tetris game that includes 2-player mode, some unique pieces that break
 ## General Gameplay
 In Tetris, you try to fit pieces together at the bottom of the screen so that you fill every space all the way across a row. Once a row is filled, it vanishes and you gain points.
 
-### 2-Play Mode
+### 2-Player Mode
 When one player clears two or more lines, a penalty row of randomly placed squares is added to the bottom of the oponent's grid.
 
 ## Controls
